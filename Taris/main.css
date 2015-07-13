@@ -1,0 +1,6 @@
+*{margin:0;padding:0;}
+li{list-style:none;}
+img{border:0;}
+
+#main{max-width:90%;max-height:90%;border:3px solid #4893dc;border-radius:5px;margin:10px auto;position:relative;}
+.grid-cell{display:inline-block;background:#66D9B1;position:absolute;}
